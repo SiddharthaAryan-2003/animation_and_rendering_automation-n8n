@@ -205,7 +205,6 @@ See [`FINAL_ARCHITECTURE.md`](./FINAL_ARCHITECTURE.md) for the complete locked s
 
 ## Future Scope
 
-- Swap mock Claude Call nodes → real HTTP Request nodes (pending API key)
 - Real UR10 robot CAD + PDF end-to-end run
 - AWS cloud migration for production scale (S3 + Lambda + EC2 GPU)
 - Prompt A/B testing with Braintrust once Iron Rule is relaxed for v2
